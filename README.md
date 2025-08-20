@@ -17,7 +17,8 @@
 
 ## 🗂️ Livrables
 - `README.md` → contexte, objectifs, compétences.  
-- **Notenook.ipynb** → Notebook présentant le nettoyage des données et l'analyse de ces dernières.
+- **Notenook Analyse.ipynb** → Notebook présentant le nettoyage des données et l'analyse de ces dernières.
+- **Notenook Application.ipynb** → Notebook appliquant le modèle de prédiction entrainé sur le jeu de donné. 
 - **Presentation** → Support de présentation du projet
 
 ---
